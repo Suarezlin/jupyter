@@ -1,10 +1,11 @@
+name: data-environment
+channels:
+  - conda-forge
 dependencies:
-  - python=3.7
-  - pip:
-    - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - seaborn
+  - ipykernel
+  - scipy
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - seaborn
