@@ -1,4 +1,4 @@
-name: data-environment
+1name: data-environment
 channels:
   - conda-forge
 dependencies:
